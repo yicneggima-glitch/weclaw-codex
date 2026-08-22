@@ -14,8 +14,6 @@ WeClaw Codex v0.7.1
 - Apple Silicon 芯片
 - 首次启动需要微信扫码登录
 下载
-- WeClaw-Codex-Installer.dmg
-- WeClaw-Codex-Installer.pkg
-- WeClaw-Codex-macOS.zip
+- https://github.com/yicneggima-glitch/weclaw-codex/blob/main/WeClaw-Codex-Installer.pkg
 
 本项目基于 https://github.com/fastclaw-ai/weclaw 开发，遵循 MIT License。
