@@ -17,4 +17,5 @@ WeClaw Codex v0.7.1
 - WeClaw-Codex-Installer.dmg
 - WeClaw-Codex-Installer.pkg
 - WeClaw-Codex-macOS.zip
-本项目基于 fastclaw-ai/weclaw 开发，遵循 MIT License。
+
+本项目基于 https://github.com/fastclaw-ai/weclaw 开发，遵循 MIT License。
