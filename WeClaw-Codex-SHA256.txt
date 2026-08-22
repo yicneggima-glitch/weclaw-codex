@@ -1,0 +1,3 @@
+0ee0b79ec40848529b0bbe8a2f67b06ecdafb77f00867f3fdb84fef84bd23e02  outputs/WeClaw-Codex-Installer.pkg
+e59d20e0ab5fa17cefbc72851fa7014509aca91f5c9c2b30b161521e71a998ea  outputs/WeClaw-Codex-Installer.dmg
+9bbcabb67ad2537bf8fd32e3db02801b802bce4ebd36d6b52b13c79cd82511bb  outputs/WeClaw-Codex-macOS.zip
